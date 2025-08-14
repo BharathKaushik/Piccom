@@ -1,2 +1,0 @@
-# Piccom
-Pictography website Final
